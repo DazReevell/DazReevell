@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DazReevell
+- 👋 Hi, I’m me
 - 👀 I’m interested in Active Directory, Azure, and security
 - 🌱 I’m currently learning Penetration testing and security
 - 💞️ I’m looking to collaborate on nothing right now
